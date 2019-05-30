@@ -7,16 +7,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="9a3accfc-8a2d-46b1-ad82-26d0bab43fdf" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/web/page/page05.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/page/page06.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/page/page07.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/page/page08.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/page/page09.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/resource/image/1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/resource/image/2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/resource/image/3.jpg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/page/page04.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/web/page/page04.jsp" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -33,12 +24,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/web/page/page09.jsp">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="44">
-              <caret line="23" column="51" selection-start-line="23" selection-start-column="51" selection-end-line="23" selection-end-column="51" />
-              <folding>
-                <element signature="e#1704#1712#1#HTML" expanded="true" />
-                <element signature="e#1796#1804#1#HTML" expanded="true" />
-              </folding>
+            <state relative-caret-position="638">
+              <caret line="29" column="17" lean-forward="true" selection-start-line="29" selection-start-column="17" selection-end-line="29" selection-end-column="17" />
             </state>
           </provider>
         </entry>
@@ -91,7 +78,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -103,6 +90,12 @@
               <item name="bootstrap" type="b2602c69:ProjectViewProjectNode" />
               <item name="bootstrap" type="462c0819:PsiDirectoryNode" />
               <item name="web" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="bootstrap" type="b2602c69:ProjectViewProjectNode" />
+              <item name="bootstrap" type="462c0819:PsiDirectoryNode" />
+              <item name="web" type="462c0819:PsiDirectoryNode" />
+              <item name="page" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="bootstrap" type="b2602c69:ProjectViewProjectNode" />
@@ -135,7 +128,7 @@
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -332,6 +325,7 @@
       <workItem from="1559027067731" duration="8188000" />
       <workItem from="1559087839900" duration="21460000" />
       <workItem from="1559118347509" duration="6291000" />
+      <workItem from="1559174465791" duration="243000" />
     </task>
     <task id="LOCAL-00001" summary="表格的补充">
       <created>1559096230798</created>
@@ -347,17 +341,23 @@
       <option name="project" value="LOCAL" />
       <updated>1559109886551</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="bootstrap的补充">
+      <created>1559174595464</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1559174595465</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="35939000" />
+    <option name="totallyTimeSpent" value="36182000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1376" height="744" extended-state="7" />
-    <editor active="true" />
+    <frame x="-8" y="-8" width="1376" height="744" extended-state="6" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.09118541" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24544074" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -436,7 +436,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="表格的补充" />
-    <option name="LAST_COMMIT_MESSAGE" value="表格的补充" />
+    <MESSAGE value="bootstrap的补充" />
+    <option name="LAST_COMMIT_MESSAGE" value="bootstrap的补充" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/web/index.jsp">
@@ -531,12 +532,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/web/page/page09.jsp">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="44">
-          <caret line="23" column="51" selection-start-line="23" selection-start-column="51" selection-end-line="23" selection-end-column="51" />
-          <folding>
-            <element signature="e#1704#1712#1#HTML" expanded="true" />
-            <element signature="e#1796#1804#1#HTML" expanded="true" />
-          </folding>
+        <state relative-caret-position="638">
+          <caret line="29" column="17" lean-forward="true" selection-start-line="29" selection-start-column="17" selection-end-line="29" selection-end-column="17" />
         </state>
       </provider>
     </entry>
